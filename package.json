@@ -1,21 +1,25 @@
 {
-    "name": "thecoderguru-black",
-    "displayName": "TheCoderGuru Black",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.68.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "TheCoderGuru Black",
-                "uiTheme": "vs-dark",
-                "path": "./themes/TheCoderGuru Black-color-theme.json"
-            }
-        ]
-    }
+  "name": "thecoderguru-black",
+  "displayName": "TheCoderGuru Black",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TheCoderGuru Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TheCoderGuru Black-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "ShashreeSamuel",
+  "repository": {
+    "url": "https://github.com/TheCoderGuru/thecoderguru-black"
+  }
 }
