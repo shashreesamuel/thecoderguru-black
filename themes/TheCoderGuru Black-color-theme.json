@@ -1,21 +1,21 @@
 {
   "name": "TheCoderGuru Black",
   "colors": {
-    "editor.background": "#111618",
-    "sideBar.background": "#141a1d",
-	"activityBar.foreground": "#516871",
-	"activityBar.inactiveForeground": "#263237",
-    "activityBar.background": "#0b0f0f",
-    "titleBar.activeBackground": "#0c1111",
+    "editor.background": "#121414",
+    "sideBar.background": "#1c1f1f",
+	"activityBar.foreground": "#c0c0c0",
+	"activityBar.inactiveForeground": "#595d5d",
+    "activityBar.background": "#121414",
+    "titleBar.activeBackground": "#1c1f1f",
     "activityBarBadge.background": "#313f45",
-	"button.background": "#253333",
-	"input.background": "#090c0c",
+	"button.background": "#2e3333",
+	"input.background": "#2f3434",
 	"list.activeSelectionBackground": "#111618",
     "editor.foreground": "#eeffff",
-	"menu.background": "#172020",
+	"menu.background": "#252929",
     "statusBar.noFolderBackground": "#111618",
-    "statusBar.background": "#111618",
-    "editorGroupHeader.tabsBackground": "#0b0f0f",
+    "statusBar.background": "#1c1f1f",
+    "editorGroupHeader.tabsBackground": "#121414",
     "sideBarTitle.foreground": "#bbbbbb"
   },
   "tokenColors": [
@@ -24,7 +24,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#8cc5c5"
+        "foreground": "#da9761"
       }
     },
     {
